@@ -36,9 +36,6 @@
     "*.js",
     "*.d.ts"
   ],
-  "scripts": {
-    "prepare": "node ../../scripts/prepare.js"
-  },
   "dependencies": {
     "@emotion/core": "^10.1.1",
     "@storybook/addons": "6.4.9",
